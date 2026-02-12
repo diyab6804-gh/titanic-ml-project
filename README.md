@@ -20,7 +20,7 @@ This repository contains a complete data preprocessing pipeline built using the 
 titanic-ml-project/
 │
 ├── data/
-│   └── titanic.csv
+│   └── titanic dataset.csv
 │
 ├── notebooks/
 │   └── Task1_Titanic_Data_Cleaning.ipynb
